@@ -1,0 +1,17 @@
+.venv/
+usb_shield_windows.zip
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+*.egg
+.idea/
+.vscode/
+.DS_Store
